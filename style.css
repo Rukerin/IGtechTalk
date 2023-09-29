@@ -24,7 +24,7 @@ main{
 .menubar{
       display: inline;
       list-style: none;
-      margin-left:5%;
+      margin-left:1%;
       float: left;
 }
 .menubar li{
@@ -44,16 +44,17 @@ main{
       background-color: rgb(27, 119, 211);
 }
 .navbar{
-      margin-left:70%;
       list-style:none;
 }
 .navbar li{
       text-align:right;
       display: inline;
+      float:right;
 }
 .navbar a{
       color:white;
       text-decoration: none;
+      margin-right:5px;
       padding: 5px;
       border-radius: 5px;
       background-color:dodgerblue;
@@ -84,8 +85,4 @@ div{
             margin-left:10px;
             margin-right:10px;
       }
-      .navbar li{
-            margin-right:1px;
-      }
-
 }
