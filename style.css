@@ -1,6 +1,6 @@
  header{
       display: inline-block;
-      background-image: url("images/Titlebackground.png");
+      background-image: url("/images/Titlebackground.png");
       background-repeat:no-repeat;
       background-size: cover;
       width:100%;
